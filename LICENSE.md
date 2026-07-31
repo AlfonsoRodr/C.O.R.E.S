@@ -1,4 +1,4 @@
-Copyright (c) 2026 [Alfonso Rodríguez Gutt]
+Copyright (c) 2026 Alfonso Rodríguez Gutt
 All Rights Reserved.
 
 This repository is public for portfolio evaluation purposes only. 
